@@ -1,0 +1,94 @@
+[14:10:33][SquidAPI][INFO]: Registering SquidAPIMod SquidAPI.
+[14:10:33][SquidAPI][INFO]: Copyright (C) CoolSquid, 2015. SquidAPI is provided "AS IS", with no warranties
+[14:10:33][SquidUtils][INFO]: Registering SquidAPIMod SquidUtils.
+[14:10:33][SquidUtils][INFO]: Copyright (C) CoolSquid, 2015. SquidUtils is provided "AS IS", with no warranties
+[14:10:39][SquidAPI][INFO]: Preinitializing.
+[14:10:39][SquidAPI][INFO]: Version id: 685200819.
+[14:10:39][SquidAPI][INFO]: File hash: 106500.
+[14:10:39][SquidAPI][INFO]: Loading SquidAPI.cfg.
+[14:10:39][SquidAPI][INFO]: Finished loading SquidAPI.cfg.
+[14:10:39][SquidAPI][INFO]: Preinitialization took 34ms.
+[14:10:39][SquidAPI][INFO]: Finished preinitialization.
+[14:10:39][SquidUtils][INFO]: Preinitializing.
+[14:10:39][SquidUtils][INFO]: Version id: -1114087718
+[14:10:39][SquidUtils][INFO]: Loading SquidUtils.cfg.
+[14:10:39][SquidUtils][INFO]: Finished loading SquidUtils.cfg.
+[14:10:39][SquidUtils][INFO]: Loading Modlist.cfg.
+[14:10:39][SquidUtils][INFO]: Finished loading Modlist.cfg.
+[14:10:39][SquidUtils][INFO]: Preinitialization finished.
+[14:10:45][SquidAPI][INFO]: Initializing.
+[14:10:45][SquidAPI][INFO]: Initialization took 27ms.
+[14:10:45][SquidAPI][INFO]: Finished initialization.
+[14:10:45][SquidUtils][INFO]: Initializing.
+[14:10:45][SquidUtils][INFO]: Initialization finished.
+[14:10:45][SquidAPI][INFO]: Postinitializing.
+[14:10:46][SquidAPI][INFO]: Postinitialization took 17ms.
+[14:10:46][SquidAPI][INFO]: Finished postinitialization.
+[14:10:46][SquidUtils][INFO]: Postinitializing.
+[14:10:46][SquidAPI][INFO]: ThermalExpansion is not loaded. Not enabling ThermalExpansion compatibility.
+[14:10:46][SquidAPI][INFO]: Botania is not loaded. Not enabling Botania compatibility.
+[14:10:46][SquidAPI][INFO]: RotaryCraft is not loaded. Not enabling RotaryCraft compatibility.
+[14:10:46][SquidAPI][INFO]: appliedenergistics2 is not loaded. Not enabling appliedenergistics2 compatibility.
+[14:10:46][SquidAPI][INFO]: AWWayofTime is not loaded. Not enabling AWWayofTime compatibility.
+[14:10:46][SquidAPI][INFO]: ThaumCraft is not loaded. Not enabling ThaumCraft compatibility.
+[14:10:46][SquidAPI][INFO]: RailCraft is not loaded. Not enabling RailCraft compatibility.
+[14:10:46][SquidAPI][INFO]: enviromine is not loaded. Not enabling enviromine compatibility.
+[14:10:46][SquidAPI][INFO]: TConstruct is loaded. Enabling TConstruct compatibility.
+[14:10:46][SquidAPI][INFO]: MineTweaker3 is not loaded. Not enabling MineTweaker3 compatibility.
+[14:10:46][SquidAPI][INFO]: SquidUtils is loaded. Enabling SquidUtils compatibility.
+[14:10:46][SquidAPI][INFO]: StarStones is not loaded. Not enabling StarStones compatibility.
+[14:10:46][SquidAPI][INFO]: SafeChat is not loaded. Not enabling SafeChat compatibility.
+[14:10:46][SquidUtils][INFO]: Loading CreativeTabs.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading CreativeTabs.cfg.
+[14:10:46][SquidUtils][INFO]: Loading DamageSources.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading DamageSources.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Enchantments.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Enchantments.cfg.
+[14:10:46][SquidUtils][INFO]: Loading WorldGen.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading WorldGen.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Mobs.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Mobs.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Achievements.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Achievements.cfg.
+[14:10:46][SquidUtils][INFO]: Loading ArrowMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading ArrowMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading ChestGen.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading ChestGen.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Fishing.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Fishing.cfg.
+[14:10:46][SquidUtils][INFO]: Loading ToolMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading ToolMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading BlockMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading BlockMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Biomes.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Biomes.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Fluids.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Fluids.cfg.
+[14:10:46][SquidUtils][INFO]: Loading WorldTypes.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading WorldTypes.cfg.
+[14:10:46][SquidUtils][INFO]: Loading ToolMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading ToolMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Blocks.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Blocks.cfg.
+[14:10:46][SquidUtils][INFO]: Loading Items.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading Items.cfg.
+[14:10:46][SquidUtils][INFO]: Loading ArmorMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading ArmorMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading BowMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading BowMaterials.cfg.
+[14:10:46][SquidUtils][INFO]: Loading GameOverlays.cfg.
+[14:10:46][SquidUtils][INFO]: Registering handler GameOverlayHandler.
+[14:10:46][SquidUtils][INFO]: Finished loading GameOverlays.cfg.
+[14:10:46][SquidUtils][INFO]: Loading CrashCallables.cfg.
+[14:10:46][SquidUtils][INFO]: Finished loading CrashCallables.cfg.
+[14:10:46][SquidUtils][INFO]: Registering handler EntityHandler.
+[14:10:46][SquidUtils][INFO]: Postinitialization finished.
+[14:10:46][SquidAPI][INFO]: Registering clientside command disable.
+[14:10:46][SquidAPI][INFO]: Registering clientside command enable.
+[14:10:46][SquidAPI][INFO]: Registering clientside command about.
+[14:10:46][SquidAPI][INFO]: Registering clientside command SquidAPI.
+[14:11:13][SquidAPI][INFO]: Registering serverside command SquidUtils.
+[14:11:13][SquidUtils][INFO]: Loading Commands.cfg.
+[14:11:13][SquidUtils][INFO]: Finished loading Commands.cfg.
+[14:11:13][SquidUtils][INFO]: Loading Dimensions.cfg.
+[14:11:13][SquidUtils][INFO]: Finished loading Dimensions.cfg.
